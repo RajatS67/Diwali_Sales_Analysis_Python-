@@ -42,7 +42,7 @@ Clone
 Clone this repository to your local machine and initialize it by following these steps:
 
 # Clone the repository
-git clone https://github.com/mrnithish/Data-Analysis-Diwali-Sales.git
+git clone https://github.com/RajatS67/Diwali_Sales_Analysis_Python-/blob/main/Diwali_Sales_Analysis.ipynb
 
 # Navigate to the project directory
 cd diwali-sales-analysis
